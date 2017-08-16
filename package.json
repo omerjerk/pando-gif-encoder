@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/omerjerk/pando-gif-encoder#readme",
   "dependencies": {
-    "gif-encoder": "^0.6.0"
+    "gif-encoder": "^0.6.0",
+    "readline": "^1.3.0"
   }
 }
