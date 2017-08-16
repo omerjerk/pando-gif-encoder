@@ -20,6 +20,7 @@ function writeGIF(pixels) {
         let file = fs.createWriteStream('img.gif');
         gif.pipe(file);
 
+        gif.setRepeat(0);
         gif.writeHeader();
     }
 
