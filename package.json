@@ -1,0 +1,22 @@
+{
+  "name": "pando-gif-encoder",
+  "version": "1.0.0",
+  "description": "GIF encoder for Pando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omerjerk/pando-gif-encoder.git"
+  },
+  "author": "Umair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omerjerk/pando-gif-encoder/issues"
+  },
+  "homepage": "https://github.com/omerjerk/pando-gif-encoder#readme",
+  "dependencies": {
+    "gif-encoder": "^0.6.0"
+  }
+}
